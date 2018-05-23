@@ -1,0 +1,25 @@
+{
+    "name"          : "andersonol/humancoder",
+    "description"   : "Wrapper php para comunicação com humancoder",
+    "type"          : "library",
+    "license"       : "Apache",
+    "authors": [{
+        "name"  : "Anderson Leite",
+        "email" : "andersonol@gmail.com"
+    }],
+    
+    "require": {
+        "php-curl-class/php-curl-class" : "^7.1"
+    },
+    
+    "autoload": {
+        
+        "psr-4": {
+            "Superlogica\\": "src/Humancoder"
+        },
+
+        "classmap" : [
+            "src/Humancoder"
+        ]
+    }
+}
