@@ -35,7 +35,7 @@ Para revelar captcha com base64:
 1. Make code changes to implement the feature or fix the bug.
 1. Send a pull request to get your changes merged and published.
 
-#License
+## License
 Copyright (c) 2018 Anderson Leite
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
