@@ -2,7 +2,7 @@
     "name"          : "andersonol/humancoder",
     "description"   : "Wrapper php para comunicação com humancoder",
     "type"          : "library",
-    "license"       : "Apache",
+    "license"       : "Apache-1.0",
     "authors": [{
         "name"  : "Anderson Leite",
         "email" : "andersonol@gmail.com"
